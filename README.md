@@ -1,0 +1,2 @@
+# sincronisacionrequerida365
+sincronisacionrequerida365.vercel.app
